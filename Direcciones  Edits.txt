@@ -1,0 +1,5 @@
+1 enfermeros
+2 medicos
+3 pacientes
+4 familiar
+5 signosvitales  
